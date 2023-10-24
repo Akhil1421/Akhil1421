@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Akhil Sharma</h1>
-<h3 align="center">A full stack web developer from India</h3>
+<h3 align="center">A passionate full stack web developer from India</h3>
 
 - 👯 I’m looking to collaborate on **opensource web dev projects.**
 
 - 📫 How to reach me **akhilsharma1421@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bSbHP8LINbr5Hu6dFuZVQR2JSVDdHgyl/view?usp=drive_link](https://drive.google.com/file/d/1bSbHP8LINbr5Hu6dFuZVQR2JSVDdHgyl/view?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akhil sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil sharma" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/akhil1421" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/akhil1421" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/as_luffy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/as_luffy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/akhil1421/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/akhil1421/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/akhil1421" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akhil1421" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/as_luffy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="as_luffy" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/akhil1421/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akhil1421/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
